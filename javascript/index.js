@@ -7,4 +7,4 @@ function helloWorld () {
   console.log(`Hello, ${semi}!`);
 }
 
-console.log(evil(helloWorld.toString()))
+console.log(evil(helloWorld.toString()));
